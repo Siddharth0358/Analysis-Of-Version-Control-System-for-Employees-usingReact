@@ -21,12 +21,12 @@
 }
 
 .table-container{
-  width: 42vw;
-  height: fit-content;
+  width: 40vw;
+  height: 420px;
   background-color: rgb(255, 255, 255);
   backdrop-filter: blur(10px);
   border-radius: 1rem;
-  overflow: hidden;
+  overflow: auto;
   margin: .5rem 0 0 .5rem;
   padding-bottom: .7rem;
 }
@@ -48,8 +48,8 @@ td{
 
 .custom-table{
   border-collapse: separate;
-  border-spacing: 11px;
-  font-size: 14px;
+  border-spacing: 7px;
+  font-size: 11px;
   color: rgb(0, 0, 0);
 }
 
